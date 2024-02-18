@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quicksilvarad
+- 👋 Hi, I’m Varad
 - 👀 I’m interested in Microservices, Middleware related development, server side computing
 - 🌱 I’m currently learning Spring boot and Kafka
 - 🐬 I have experience in Manual Testing and also know automation with selenium and java
